@@ -1,6 +1,6 @@
 # Learn.co Educational Content License
 
-Copyright (c) 2018 Flatiron School, Inc
+Copyright (c) 2024 Gerge Evans, 
 
 The Flatiron School, Inc. owns this Educational Content. However, the Flatiron
 School supports the development and availability of educational materials in
